@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 21-sep-2012, 14:49:34
-    Author     : DANIELSITO
+    Author     : yakelyn
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -13,6 +13,6 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        holassas
+       
     </body>
 </html>
